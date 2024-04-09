@@ -11,7 +11,7 @@ function App() {
     <div>
       <Helmet>
         <meta charSet="utf-8" />
-        <title>Fundgy</title>
+        <title>Sahil's Crowdfunding Dapp</title>
         <link
           rel="canonical"
           href="https://img.icons8.com/?size=1x&id=L3M3pVxJJakz&format=png"
