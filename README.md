@@ -11,8 +11,8 @@
 ### Quickstart
 
 ```
-git clone ...
-cd ...
+git clone https://github.com/Sahilrajdhawan/BlockChainCrowdfundingDApp.git
+cd BlockChainCrowdfundingDApp
 yarn
 yarn start
 ```
